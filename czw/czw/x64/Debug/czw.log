@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\20392\Desktop\新手村\czw\czw\源.cpp(124,55): warning C4804: “<”: 在操作中使用类型“bool”不安全
+  czw.vcxproj -> C:\Users\20392\Desktop\新手村\czw\x64\Debug\czw.exe

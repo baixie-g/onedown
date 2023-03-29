@@ -1,0 +1,13 @@
+﻿  1.cpp
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(11,1): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(11,1): error C2143: 语法错误: 缺少“]”(在“)”的前面)
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(11,1): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(11,1): error C2059: 语法错误:“)”
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(11,24): error C2059: 语法错误:“]”
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(33,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(33,1): error C2429: 语言功能 "if/switch 中的 init-statement" 需要编译器标志 "/std:c++17"
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(33,22): error C2059: 语法错误:“)”
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(33,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(42,8): error C2065: “date”: 未声明的标识符
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(49,9): error C2039: "date": 不是 "stack" 的成员
+C:\Users\20392\Desktop\新手村\栈\栈\1.cpp(5,7): message : 参见“stack”的声明

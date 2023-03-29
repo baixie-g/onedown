@@ -1,0 +1,5 @@
+﻿  sort1.cpp
+C:\Users\20392\Desktop\新手村\排序\排序\sort1.cpp(123,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\排序\排序\sort1.cpp(127,13): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\20392\Desktop\新手村\排序\排序\sort1.cpp(128,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  排序.vcxproj -> C:\Users\20392\Desktop\新手村\排序\x64\Debug\排序.exe

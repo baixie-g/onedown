@@ -1,0 +1,18 @@
+﻿  源.cpp
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(505,39): error C2440: “=”: 无法从“const char [14]”转换为“LPCWSTR”
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(505,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(509,153): error C2664: “HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)”: 无法将参数 2 从“const char [14]”转换为“LPCWSTR”
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(509,35): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : 参见“CreateWindowExW”的声明
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(550,84): error C2664: “int DrawTextW(HDC,LPCWSTR,int,LPRECT,UINT)”: 无法将参数 2 从“char [20]”转换为“LPCWSTR”
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(550,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8183,1): message : 参见“DrawTextW”的声明
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(569,70): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [23]”转换为“LPCWSTR”
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(569,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(570,72): error C2664: “int GetWindowTextW(HWND,LPWSTR,int)”: 无法将参数 2 从“char [256]”转换为“LPWSTR”
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(570,50): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(8931,1): message : 参见“GetWindowTextW”的声明
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(575,54): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“char [256]”转换为“LPCWSTR”
+C:\Users\20392\Desktop\新手村\window\window\源.cpp(575,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明

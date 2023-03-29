@@ -1,0 +1,3 @@
+﻿  computer.cpp
+C:\Users\20392\Desktop\新手村\computer3.0bylist_stack\computer.cpp(37): warning C4715: “priority”: 不是所有的控件路径都返回值
+  computer3.0bylist_stack.vcxproj -> C:\Users\20392\Desktop\新手村\computer3.0bylist_stack\x64\Debug\computer3.0bylist_stack.exe

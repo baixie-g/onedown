@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(63,33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(64,33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(72,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(91,28): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(91,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(91,81): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(91,81): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(92,28): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(92,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(92,81): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(92,81): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(93,28): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(93,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(93,81): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(93,81): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(97,22): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(97,22): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(97,52): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(97,52): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(98,22): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(98,22): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(98,52): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(98,52): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(99,22): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(99,22): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(99,52): warning C4838: 从“float”转换到“int”需要收缩转换
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(99,52): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(145,119): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(145,55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(144,110): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(144,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(213,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\20392\Desktop\新手村\贪吃蛇源码\贪吃蛇V2\main.cpp(372,15): warning C4018: “>”: 有符号/无符号不匹配
+  eating snake.vcxproj -> C:\Users\20392\Desktop\新手村\eating snake\x64\Debug\eating snake.exe

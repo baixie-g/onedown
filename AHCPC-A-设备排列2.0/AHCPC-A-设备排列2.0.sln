@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AHCPC-A-设备排列2.0", "AHCPC-A-设备排列2.0.vcxproj", "{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Debug|x64.ActiveCfg = Debug|x64
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Debug|x64.Build.0 = Debug|x64
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Debug|x86.Build.0 = Debug|Win32
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Release|x64.ActiveCfg = Release|x64
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Release|x64.Build.0 = Release|x64
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Release|x86.ActiveCfg = Release|Win32
+		{4BFB109F-01FA-4DE5-85E4-E0B5169BA972}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780C0A55-8092-4D5E-AFBC-DA3BD1203F94}
+	EndGlobalSection
+EndGlobal

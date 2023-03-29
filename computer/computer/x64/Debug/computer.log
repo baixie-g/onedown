@@ -1,0 +1,3 @@
+﻿  computer.cpp
+C:\Users\20392\Desktop\新手村\computer\computer\computer.cpp(37): warning C4715: “priority”: 不是所有的控件路径都返回值
+  computer.vcxproj -> C:\Users\20392\Desktop\新手村\computer\x64\Debug\computer.exe
