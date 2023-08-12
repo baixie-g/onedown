@@ -1,0 +1,19 @@
+﻿  源.cpp
+  源1.cpp
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(35,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(47,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(65,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(66,5): error C3861: “Recursive_BubbleSort1”: 找不到标识符
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(121,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(148,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(153,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(184,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(196,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(215,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(224,67): warning C4307: “*”: 有符号整型常量溢出
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(224,89): warning C4307: “*”: 有符号整型常量溢出
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(225,63): warning C4307: “*”: 有符号整型常量溢出
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(225,85): warning C4307: “*”: 有符号整型常量溢出
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(226,63): warning C4307: “*”: 有符号整型常量溢出
+C:\Users\20392\Desktop\code-repos\bzcz\源1.cpp(226,85): warning C4307: “*”: 有符号整型常量溢出
+  正在生成代码...

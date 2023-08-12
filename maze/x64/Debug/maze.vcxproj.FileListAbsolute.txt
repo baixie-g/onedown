@@ -1,1 +1,2 @@
 C:\Users\20392\Desktop\新手村\maze\x64\Debug\maze.exe
+C:\Users\20392\Desktop\code-repos\maze\x64\Debug\maze.exe
