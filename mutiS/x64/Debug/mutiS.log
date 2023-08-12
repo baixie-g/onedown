@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\20392\Desktop\code-repos\mutiS\源.cpp(1,1): warning C4828: 文件包含在偏移 0x117f 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\20392\Desktop\code-repos\mutiS\源.cpp(102,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  mutiS.vcxproj -> C:\Users\20392\Desktop\code-repos\mutiS\x64\Debug\mutiS.exe
